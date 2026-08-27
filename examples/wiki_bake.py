@@ -284,10 +284,12 @@ def wiki_bake():
     print()
     print("=" * 70)
     if all_ok:
-        print("✓ All 5 futures, 5 calculations, 5 mathematics, 5 foundations pass.")
+        print("✓ All 7 futures, 5 calculations, 5 mathematics, 5 foundations pass.")
         print("  The wiki is whole. The path runs backwards and forwards.")
         print("  The chart grows in glass, refracts in light, breathes in a plant.")
         print("  The cowboy rides the wiki. The cowboy rides the spline.")
+        print("  The Splined Lanterns go to the stars.")
+        print("  The Meta-Quilt is the inheritance.")
     print("=" * 70)
     return all_ok
 

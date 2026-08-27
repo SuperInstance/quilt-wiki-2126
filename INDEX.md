@@ -67,6 +67,8 @@
 | F3 Monotone Crystal |  |   |   | ✓ |   |
 | F5 Chlorophyll Quilt |  | ✓ |   | ✓ | ✓ |
 | F7 Phased Quilt    | ✓ |   |   |   | ✓ |
+| F9 Stellar Quilt   |   | ✓ |   | ✓ | ✓ |
+| F11 Meta-Quilt     | ✓ |   |   | ✓ | ✓ |
 
 ## The math matrix (which calculation needs which math)
 

@@ -36,6 +36,8 @@ For each function, the path runs:
 3. **[The Monotone Crystal](00-future/03-monotone-crystal.md)** — F3, the finished thought
 4. **[The Chlorophyll Quilt](00-future/04-chlorophyll-quilt.md)** — F5, the breathing computer
 5. **[The Phased Quilt](00-future/05-phased-quilt.md)** — F7, the fiber-bundle substrate
+6. **[The Stellar Quilt](00-future/06-the-stellar-quilt.md)** — F9, between the stars
+7. **[The Meta-Quilt](00-future/07-the-meta-quilt.md)** — F11, the inheritance itself
 
 ## The calculations
 
