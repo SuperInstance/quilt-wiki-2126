@@ -24,3 +24,16 @@
 **The cowboy's sentence:**
 
 > Folks keep askin' if I'm the ground or the design, and I just tip my hat — neither, friend, I'm the trail between 'em, and it's the trail that gets the herd home.
+
+---
+
+## Mathematics required (backward derivation, added 2026-08-31)
+
+The in-entry calculation names four checks: seam_ratio, tessellation_threshold, **euler_check** (`V − E + F = χ`), period_check. Of these, one rests on rungs that now exist:
+
+- **[M6: Euler Characteristic](../02-mathematics/06-euler-characteristic.md)** — the euler_check IS Euler-characteristic bookkeeping: χ too low = gap, χ too high = overlap. The period_check (Penrose condition) is honest GAP: **aperiodic order (Wang tilings, Penrose rhombi) has no rung in 02-mathematics and none is faked here.**
+- The seam_ratio and threshold are definitions, not derived quantities — they need no rung below.
+
+## Foundations
+
+- **[F0a: The 5 Opcodes](../03-foundations/01-the-5-opcodes.md)** — the seam is a LINK whose both endpoints keep their shapes; the tessellation is wiring-as-data

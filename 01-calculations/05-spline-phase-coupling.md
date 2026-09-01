@@ -45,8 +45,11 @@ The phase angle `θ` links them. A single rotation = one period (clock, relative
 
 ## Mathematics required
 
-- **[M1: Cubic Spline](../02-mathematics/01-cubic-spline.md)** — the holonomy is a spline
-- **[M2: Euler Elastica](../02-mathematics/02-euler-elastica.md)** — the full spline
+- **[M6: Euler Characteristic](../02-mathematics/06-euler-characteristic.md)** — the holonomy is a winding number; `2π`-counts are topological and survive smoothing (WIRING CORRECTED 2026-08-31 by examples/spline_phase.py — previously this section listed M1/M2)
+- **[M1: Cubic Spline](../02-mathematics/01-cubic-spline.md)** — the shape of the fiber the phase rides
+- **[M2: Euler Elastica](../02-mathematics/02-euler-elastica.md)** — the shape under load
+
+**Correction note (2026-08-31):** M1/M2 shape the fiber; the *holonomy itself* rests on the Umlaufsatz/Gauss–Bonnet family (M6). Verified: a 12-cell closed spline carries holonomy `2π·1.0000`; mixed-sign TICK cancels it to exactly `0.00` — TICK_monotonicity is load-bearing, not decorative.
 
 ## Foundations
 
