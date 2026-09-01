@@ -97,3 +97,11 @@ composition beats a single-substrate monolith.
 - Paper 326: The Abductive VM (the loop as sub-VM)
 - Paper 329: The Substrate as a Cell (this frontier)
 - Wiki 12: The Physical World Cell
+
+---
+
+## Backward derivation (added 2026-08-31, lattice-v2)
+
+- **[C6: The Loam Equation](../01-calculations/06-the-loam-equation.md)** — the substrate-as-cell's dynamics ARE loam: interpreters sediment capability (`ρ·|EFFECT|`), execution compresses (`σ·|TICK|`), a substrate cell stands while `Loam ≥ root_depth`. The craton cell (Loam = ∞, never ticked) is the 2026 name for the never-ticked fixed point.
+- **[F0a: The 5 Opcodes](../03-foundations/01-the-5-opcodes.md)** — PROPOSE/EXECUTE/RENDER/VERIFY/REFINE are BIND/EFFECT/VIEW/TICK/re-BIND; the entry says so itself ("the substrate is a cell that runs opcodes").
+- **GAP (honest):** the mathematics layer beneath C6 (monotone dynamical systems is the candidate) is not written. See INDEX-V2 §5.

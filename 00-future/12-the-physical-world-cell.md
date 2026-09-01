@@ -106,3 +106,10 @@ binds. The cell shape is the same in all 3.
 - Paper 315 (L0-L14 foreman-completeness)
 - The Code-as-World paper: arXiv 2608.27549
 - The Code-as-World-VL-9B model: huggingface.co/MirroS-Lab/Code-as-World-VL-9B
+
+---
+
+## Backward derivation (added 2026-08-31, lattice-v2)
+
+- **[F0a: The 5 Opcodes](../03-foundations/01-the-5-opcodes.md)** — PROPOSE/EXECUTE/RENDER/VERIFY/REFINE map to BIND/EFFECT/VIEW/TICK/re-BIND (stated in-entry: "the 5+1+1+1+1+1 opcodes apply unchanged").
+- **GAP (honest):** the abductive loop's mathematics (program synthesis, verification, refinement convergence) has no rung in 02-mathematics. Real field, unwritten here — open, not faked.
