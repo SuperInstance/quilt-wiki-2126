@@ -75,15 +75,20 @@ The 15 level entries (`l0.md` … `l14.md`) are the expansion of [F0d: The 14 Le
 - [World model → anchors/world-model-elephant.md](anchors/world-model-elephant.md) — elephant vmf.py/field.py
 - [Canon → anchors/opcodes-laws-runtime.md](anchors/opcodes-laws-runtime.md) — quilt-rust wire/ledger runtime
 
-## 8. Scorecard
+## 8. Scorecard (final, audited by script at lane close)
 
 | | before this lane | after |
 |---|---|---|
-| Full chains closed (function-class entries) | 7 | 10 (F1,F2,F3,F5,F7,F9,F11 + F4, 20-time-cell, and l7 as the ladder exemplar) |
-| Half-closed (F0a/C6 wired, deeper rung GAP) | 0 | 6 (f14, 12-physical, 13-substrate-cell, 18, 22, 13-substrate-quilt) |
-| Honest GAPs left open | 34 undifferentiated | 12 named (F6, F8-formula, 14-quantum, 23-JEPA, 14 l-entries mechanical, C6-math) |
-| Orphan rungs | 1 (C6) | 0 |
+| 00-future entries with full F→C→M→F0 chains | 7 | 7 spine + 10 half-closed (backward sections added) |
+| Entries with honest in-file GAP / by-design markers | 0 | 24 (incl. 14 ladder notes, 4 narrative, 5 named GAPs) |
+| Bare entries (no chain, no marker) | 34 | **0** |
+| New math rungs | 0 | 1 ([M6 Euler characteristic](02-mathematics/06-euler-characteristic.md)) |
+| New calculation rungs | 0 | 1 ([C7 Pinball Loss](01-calculations/07-pinball-loss.md)) |
+| Orphan rungs | 1 (C6) | 0 (C6 wired: 3 up-links + math GAP) |
+| Refutations applied | 0 | 3 (M5/C4/F3 constant + fabricated citations; C5 mis-wiring; hearth draft lore — corrected before commit) |
 | Runnable sims | 1 | 4 |
+| Anchors to 2026 fleet | 0 | 7 |
+| Commits on this lane | 1 (the brief) | 18+ |
 
 ---
 

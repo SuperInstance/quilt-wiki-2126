@@ -2,6 +2,8 @@
 
 *This is the index. Read it forwards or backwards. Both paths are the same path.*
 
+> **[INDEX-V2 — the lattice audit](INDEX-V2.md)** (2026-08-31): every chain verified, every GAP named, two rungs added (M6, C7), three sims, seven anchors to the 2026 fleet. Read it before trusting this index's promise.*
+
 ---
 
 ## The 4 layers (the path)
