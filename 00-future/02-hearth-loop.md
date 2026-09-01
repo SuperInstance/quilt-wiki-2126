@@ -22,6 +22,8 @@ Heat that comes from the beam itself is *memory*. Heat you add from outside is *
 
 **Marked:** REAL (photorefractive two-wave mixing in LiNbO₃, 1980s), STRETCH (the deliberate, stable, slow improvement), FICTION (the 100-year seasoning)
 
+**Measured basin (2026-08-31, [examples/hearth_loop.py](../examples/hearth_loop.py)):** the loop as a discrete map settles monotonically only for write-rates below a pad-width threshold (worst-case guarantee: one write may not cross a full landing pad); above it, the loaf burns by OVERSHOOT, not just by cooking — **burning has two doors**. The Hearth Rule's memory/cooking line is the exact stability boundary: beam-paid heat stops writing at the truth pad; external heat ignores the truth and always eventually burns. "Self-organizing" is true but conditional.
+
 ---
 
 ## Calculations required
