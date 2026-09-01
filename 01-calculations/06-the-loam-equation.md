@@ -46,3 +46,15 @@ When `R > 1`, the cell is gaining substrate over time (effects sediment faster t
 **The principle:**
 
 > The Loam Equation is the substrate's heartbeat. Every cell that stands has a `ρ` and a `σ`. Every cell that falls has run out of loam. The Craton Cell is the cell with no `TICK`. The cowboy rides the Loam. The Loam is the inheritance.
+
+---
+
+## Required for (added 2026-08-31, lattice-v2 — this rung was an orphan: real, correct, linked to nothing, absent from INDEX.md)
+
+- **[13: The Substrate Cell](../00-future/13-the-substrate-cell.md)** — the substrate's dynamics ARE loam
+- **[L7: The Symbiotic Cell](../00-future/l7.md)** — `E(L7_c) = E(L6_a) + E(L6_b) − C(ab)` is loam arithmetic: sediment vs compression, the marriage stands while `ρ·E > σ·C`
+- **[F8: The Chemical Quilt](../00-future/08-the-chemical-quilt.md)** — bonds sedimenting into substrate is loam; the neighbor, honestly, not the enthalpy formula itself
+
+## Mathematics required
+
+- **GAP (honest):** the Loam Equation is a monotone-ish discrete dynamical system; the natural rung is monotone dynamical systems (Hirsch's generic-convergence theorem family). Not written. Open, not faked — see [INDEX-V2](../INDEX-V2.md) §5.

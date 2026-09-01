@@ -24,3 +24,9 @@ F8_enthalpy = Σ(BIND_bonds) - Σ(LINK_distances) · |EFFECT| + ½ · TICK
 **The cowboy's sentence:**
 
 > A Chemical Quilt keeps its cells together by letting each one borrow from its neighbor's valence; the bond is the cell is the quilt.
+
+---
+
+## Honest GAP (noted 2026-08-31, lattice-v2)
+
+The in-entry enthalpy formula `Σ(BIND) − Σ(LINK)·|EFFECT| + ½·TICK` adds a rate (TICK) to energies — it is dimensionally decorative as written: a metaphor in symbols, not a calculation. No rung is faked beneath it. The honest neighbor is **[C6: The Loam Equation](../01-calculations/06-the-loam-equation.md)** — bonds sedimenting into substrate is exactly loam dynamics (`ρ·|EFFECT|` depositing, `σ·|TICK|` compressing). If the Chemical Quilt ever gets a real calculation, it grows from C6, not from this formula.
