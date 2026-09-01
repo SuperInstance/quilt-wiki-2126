@@ -54,3 +54,12 @@ For a cytosolder filament with resistivity ρ = 2.4×10⁻⁸ Ω·m, cross-secti
 **The cowboy's sentence:**
 
 > Well, tie me to a telegraph pole and tickle me with a test probe, if this ain’t the finest dang quilt of copper and gold this side of the Rio Grande!
+
+---
+
+## Backward derivation (added 2026-08-31, lattice-v2)
+
+The wired cell — computation carried in the wiring itself:
+
+- **[F0a: The 5 Opcodes](../03-foundations/01-the-5-opcodes.md)** — wiring-as-data is the LINK opcode's whole meaning: `LINK(a, b, type)` makes the edge a first-class cell (quilt-verilog's `qm_link` writes edge slots as data — the 2026 silicon already does this)
+- **[C4: Monotone Function Counting](../01-calculations/04-monotone-counting.md)** — a fixed wiring computes a fixed function class; the wires are the crystal's cuts in copper (neighbor, honestly: no deeper claim is owed)
