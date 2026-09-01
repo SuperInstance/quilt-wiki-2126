@@ -79,3 +79,9 @@ CRDT) are the foundation.
 - Paper F91: The Temporal Reasoner
 - `temporal.py` (this repo): the 10-capability implementation
 - `JEPA.md` (this repo): the full JEPA discussion
+
+---
+
+## Honest GAP (noted 2026-08-31, lattice-v2)
+
+The embedding-prediction loss `‖predictor(enc(x)) − enc(y)‖²` needs a metric-geometry rung (least-squares projection in Hilbert space is the small honest candidate). **Not written — open, not faked.** The 2026 ancestor is real and running: elephant's vmf.py/field.py (direction + concentration instead of pixels — see [anchors/world-model-elephant.md](../anchors/world-model-elephant.md)); the uncertainty quantification rides [C7: The Pinball Loss](../01-calculations/07-pinball-loss.md). See [INDEX-V2](../INDEX-V2.md) §2.

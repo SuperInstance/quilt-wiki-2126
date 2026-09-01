@@ -64,3 +64,9 @@ For each new substrate:
 - Paper 375: The Cell of Time
 - Paper 376: The Cell of Spacetime
 - Wiki 12: The Physical World Cell
+
+---
+
+## Honest GAP (noted 2026-08-31, lattice-v2)
+
+Hybrid photonic/hydraulic cell: shares the photonic GAP (no operator-algebra rung — see [06](06-the-photonic-quilt-the-cell-of-light.md)) and adds fluid dynamics (also no rung). Open, not faked. See [INDEX-V2](../INDEX-V2.md) §2.

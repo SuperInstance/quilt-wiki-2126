@@ -65,3 +65,10 @@ F11 says the canon IS the inheritance. F13 says the substrate is the floor. F1 s
 **The cowboy's sentence:**
 
 > Reckon I always knew a quilt ain't held up by its stitches but by the floor you throw it on — F13's just me finally namin' that floor and givin' it a ledger.
+
+---
+
+## Backward derivation (added 2026-08-31, lattice-v2)
+
+- **[C6: The Loam Equation](../01-calculations/06-the-loam-equation.md)** — the substrate quilt is the set of cells with `S(c) = Loam(c)/root_depth(c) > 0`; the quilt's extent IS the loam field
+- **[F0a: The 5 Opcodes](../03-foundations/01-the-5-opcodes.md)** — ROUTE/WORLD/CRDT/PROOF collapse into one architecture because they are all opcode-shaped cells

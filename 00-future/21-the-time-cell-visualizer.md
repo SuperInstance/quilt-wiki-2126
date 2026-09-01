@@ -64,3 +64,7 @@ Canvas + JS. No build step. No dependencies. Just open the file.
 
 - Paper F82: The Quilt Time-Cell Visualizer
 - README in quilt-timesfm (Section: "Interactive visualizer")
+
+---
+
+*Tooling — no chain by design (the visualizer renders [20: The Time Cell](20-the-time-cell.md), whose chain lives there). See [INDEX-V2](../INDEX-V2.md) §4.*

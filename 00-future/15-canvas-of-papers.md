@@ -86,3 +86,7 @@ This is the "Quilt answer" to question Q.
 - Paper 319: polyformalism + re-embed
 - re_embed_v2.py (the script)
 - Wiki 12: The Physical World Cell
+
+---
+
+*Narrative/canon layer — no chain by design; links sideways, not down. See [INDEX-V2](../INDEX-V2.md) §4.*

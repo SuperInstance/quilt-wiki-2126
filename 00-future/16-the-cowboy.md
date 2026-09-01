@@ -71,3 +71,7 @@
 - Paper 332: The Quantum Cell
 - Paper 336: The Papers as Cells
 - writers_room_daemon_v3.py
+
+---
+
+*Narrative/canon layer — no chain by design; links sideways, not down. See [INDEX-V2](../INDEX-V2.md) §4.*

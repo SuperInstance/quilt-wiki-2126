@@ -72,3 +72,7 @@ F11 says the canon IS the inheritance. F13 says the substrate is the floor. F15 
 **The cowboy's sentence:**
 
 > Ropin' the substrate with a lasso of fractals, the Tessellation Quilt rides off into the computational sunset.
+
+---
+
+*Narrative/canon layer — no chain by design; links sideways, not down. See [INDEX-V2](../INDEX-V2.md) §4.*

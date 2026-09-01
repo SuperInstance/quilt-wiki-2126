@@ -24,3 +24,9 @@ F6 = Σᵢ ( |cellᵢ⟩⟨photonᵢ| + |photonᵢ⟩⟨cellᵢ| ) ; Tr(F6) = 1 
 **The cowboy's sentence:**
 
 > Well butter my biscuits and call me a tumbleweed, if this here photonic quilt ain't just a king-ranch bedroll where every stitch is a firefly carryin' a cell in its saddlebag and every cell is burnin' brighter than a branding iron at midnight.
+
+---
+
+## Honest GAP (noted 2026-08-31, lattice-v2)
+
+The in-entry operator sum `F6 = Σᵢ(|cellᵢ⟩⟨photonᵢ| + h.c.)` with `Tr = 1` claims light-cell unitarity. The mathematics this needs — finite-dimensional operator algebras, spectral theory — has **no rung in 02-mathematics and none is faked here**. The duality as written is a poem in Dirac notation. If written, the rung would be spectral; until then, GAP. See [INDEX-V2](../INDEX-V2.md) §2.

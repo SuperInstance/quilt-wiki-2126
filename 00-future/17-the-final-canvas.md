@@ -118,3 +118,7 @@ FORGET completeness
 - Wiki 16: The Cowboy
 - re_embed_v2.py
 - writers_room_daemon_v3.py
+
+---
+
+*Narrative/canon layer — no chain by design; links sideways, not down. See [INDEX-V2](../INDEX-V2.md) §4.*

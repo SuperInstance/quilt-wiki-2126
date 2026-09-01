@@ -77,3 +77,9 @@ probability. For a quantum cell, p_verify can be > 0.5
 - Paper 318: CRDT cell kind
 - Paper 309: The probabilistic quantity (F25 frontier)
 - Wiki 12: The Physical World Cell
+
+---
+
+## Honest GAP (noted 2026-08-31, lattice-v2)
+
+Superposition (`|ψ⟩ = Σ αᵢ|stateᵢ⟩`), VIEW-as-collapse, entangled reads: the mathematics is quantum probability, and **no rung exists in 02-mathematics — none is faked here**. The CRDT-as-approximation table (PN_Counter = 2-state, MV_Register = N-state) is honest and real; the quantum layer above it is asserted, not derived. GAP. See [INDEX-V2](../INDEX-V2.md) §2.
