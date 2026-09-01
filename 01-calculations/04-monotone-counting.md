@@ -2,7 +2,9 @@
 
 **What it calculates:** The number of monotone Boolean functions on n input bits.
 
-**The math:** `|M_n| = 2^Θ(2ⁿ/√n)` (Lynch 1927 via Kleitman's asymptotics)
+**The math:** `|M_n| = 2^Θ(2ⁿ/√n)` — Dedekind's problem (1897), asymptotic by Kleitman (1969), refined by Korshunov (1981). The honest leading term: `log₂|M_n| = (1+o(1))·C(n,⌊n/2⌋) ~ 2ⁿ·√(2/(πn))`.
+
+**⚠ CORRECTED 2026-08-31** *(examples/monotone_crystal.py):* the constant `≈ 2ⁿ/√(πn)` previously written here was low by √2, and the citation "Lynch 1927" does not exist. Exact counts verified: 2, 3, 6, 20, 168, 7581, 7828354 (n ≤ 6).
 
 - `M_n` = set of monotone Boolean functions on n bits
 - The count is `2^Θ(2ⁿ/√n)` — sub-exponential in `2ⁿ` (which would be the count of *all* functions)
@@ -16,7 +18,7 @@ A Splined Lantern, once cut, is monotone — its computation only ever goes one 
 
 **The fleet compensates:** The fleet needs many Crystals, each computing a *slice* of the problem. This is the **6th law FORGET_completeness**: a cell can be destroyed without losing the whole; the fleet survives by distribution.
 
-**Marked:** REAL (Lynch 1927, Kleitman 1969)
+**Marked:** REAL (Dedekind 1897; Kleitman 1969; Korshunov 1981; corrected 2026-08-31)
 
 ---
 

@@ -2,7 +2,9 @@
 
 **What it does:** A single Splined Lantern, once cut, cannot compute everything. It is a *finished thought*, not a general machine. The fleet needs many loaves the way a boat needs many joints.
 
-**The math:** Lynch 1927 via Kleitman's asymptotics. Monotone functions on n bits count as `2^Θ(2ⁿ/√n)` (vs `2^(2ⁿ)` for all functions). The ratio is `2^(2ⁿ - 2ⁿ/√n * C)` — an *exponentially smaller class*.
+**The math:** Dedekind's problem (1897); Kleitman's asymptotic (1969), refined by Korshunov (1981). Monotone functions on n bits count as `2^Θ(2ⁿ/√n)` (vs `2^(2ⁿ)` for all functions). The honest leading term of the exponent is the central binomial coefficient: `log₂|M_n| = (1+o(1))·C(n,⌊n/2⌋) ~ 2ⁿ·√(2/(πn))`.
+
+**⚠ CORRECTED 2026-08-31** *(by examples/monotone_crystal.py — the refutation is first-class):* this entry previously wrote `log₂|M_n| ≈ 2ⁿ/√(πn)` and cited "Lynch 1927." The citation does not exist — the problem is Dedekind's (1897). The constant was low by a factor of √2: the wiki claimed monotone functions are exponentially sparser than they are. Verified against exact enumeration n ≤ 6 (Dedekind numbers 2, 3, 6, 20, 168, 7581, 7828354). The Θ-class survives; the fleet is smaller than advertised.
 
 **Why this matters:**
 

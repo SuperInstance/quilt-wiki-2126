@@ -14,7 +14,7 @@
 - A monotone Boolean function `f: {0,1}ⁿ → {0,1}` satisfies: if `x ≤ y` (componentwise) then `f(x) ≤ f(y)`
 - The number of such functions is `|M_n| = 2^Θ(2ⁿ/√n)`
 - This is sub-exponential in `2ⁿ` (which would be the count of all functions)
-- Specifically: `log₂|M_n| ≈ 2ⁿ / √(π n)` (Kleitman 1969)
+- Specifically: `log₂|M_n| = (1+o(1))·C(n,⌊n/2⌋) ~ 2ⁿ·√(2/(πn))` (Kleitman 1969; Korshunov 1981)
 
 **Why this is the math for the Monotone Crystal:**
 
