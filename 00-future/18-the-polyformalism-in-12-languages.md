@@ -64,3 +64,12 @@ Total: 1 day per port. 12 ports = 12 days of work.
 - Paper 358-364: C#, Julia, Mojo, Zig, Elixir, Clojure, Racket
 - Wiki 12: The Physical World Cell (the 4th adoption, in 4 ports)
 - The Phase 227 commit: physical.world in GDScript (5th port)
+
+---
+
+## Backward derivation (added 2026-08-31, lattice-v2)
+
+Polyformalism's claim is *opcode-shape*: the same operation indices, hashes, and semantics across substrates. That claim chains to exactly one place:
+
+- **[F0a: The 5 Opcodes](../03-foundations/01-the-5-opcodes.md)** — the languages differ, the operation symbols do not; identity of shape is what the laws are *of*.
+- No calc/math rungs are owed: polyformalism is canon demonstrated, not calculation derived. Chain terminates at F0a by design.

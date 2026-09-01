@@ -76,3 +76,12 @@ the same forecast shape. The substrate is the only thing that varies.
 - Paper F83: The Quilt Time-Cell as a Network Protocol
 - `quilt-timesfm/docs/POLYFORMALISM.md`
 - `quilt-timesfm-rust/README.md`
+
+---
+
+## Backward derivation (added 2026-08-31, lattice-v2)
+
+Same rule as wiki 18 — polyformalism is opcode-shape:
+
+- **[F0a: The 5 Opcodes](../03-foundations/01-the-5-opcodes.md)** — C and Python agree on kind name, operation indices, FNV-1a state hash, prev-hash PROOF chain: the laws hold across substrates.
+- **[C7: The Pinball Loss](../01-calculations/07-pinball-loss.md)** — the substrate varies (stub vs real TimesFM), the forecast object does not; the 9 quantiles are what C7 trains.
