@@ -110,6 +110,12 @@ L_q = max(q * (y - y_pred), (q-1) * (y - y_pred))
 
 for each quantile q. The 9 quantiles are predicted jointly.
 
+## Backward derivation (added 2026-08-31, lattice-v2)
+
+- **[C7: The Pinball Loss](../01-calculations/07-pinball-loss.md)** — the quantile loss above is Koenker & Bassett 1978, REAL math, now with its own rung: the 9 intervals are what the asymmetry trains
+- **[F0a: The 5 Opcodes](../03-foundations/01-the-5-opcodes.md)** — the 5 time-cell operations (BIND_CONTEXT/BIND_COVARIATE/FORECAST/READ_POINT/READ_QUANTILE) are BIND/BIND/EFFECT/VIEW/VIEW — polyformalism is opcode-shape, so the chain terminates at the canon honestly
+- **GAP (honest):** the patch-transformer architecture itself (RevIN, patching) has no mathematics rung here. That is 2026 substrate engineering, not 2126 derivation — marked open, not faked.
+
 ## See also
 
 - Paper 385: The Time Cell
